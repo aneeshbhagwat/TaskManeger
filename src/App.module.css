@@ -1,0 +1,15 @@
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.appContainer {
+  padding-top: 20px;
+}
+
+.navTabs {
+  margin-bottom: 20px;
+  background-color: black;
+  border-radius: 10px;
+}

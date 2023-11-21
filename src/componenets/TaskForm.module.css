@@ -1,0 +1,11 @@
+.formContainer {
+  margin-top: 20px;
+}
+
+.form {
+  display: flex;
+  justify-content: space-between;
+}
+.div task-high {
+  background-color: red;
+}

@@ -1,0 +1,21 @@
+.taskContainer {
+  margin-top: 20px;
+}
+
+.task {
+  padding: 8px;
+  margin: 8px;
+  border: 1px solid #ddd;
+}
+
+.low {
+  background-color: green;
+}
+
+.medium {
+  background-color: yellow;
+}
+
+.high {
+  background-color: red;
+}
